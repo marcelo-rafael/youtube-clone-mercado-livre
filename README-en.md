@@ -1,7 +1,5 @@
 <h1 align="center">
-UI Clone (Motion) - Typeform Homepage
-</h1>
-
+UI Clone Shopping page Mercado Livre
 <hr>
 
 <p align="center">
@@ -11,9 +9,9 @@ UI Clone (Motion) - Typeform Homepage
 </p>
 
 <h4 align="center"> 
-	🚧  Ui-Clone 🚀 progress 🚀 🚧
+	🚧  Homepage UI clone Mercado livre 🚀 progress 🚀 🚧
 </h4>
-<p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://ui-clone-mercadolivre.netlify.app/">here</a>.</p>
 
 <p align="center">
  <a href="#about">About</a> •
@@ -25,9 +23,9 @@ UI Clone (Motion) - Typeform Homepage
 
 ## About
 
-Animated Typeform Homepage with Framer Motion (ReactJS) | UI clone for study purposes.
+UI Clone Shopping page Mercado Livre for study purposes.
 
-Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
+Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=APs_xQ2hUOE&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=9).
 
 ---
 
@@ -35,7 +33,7 @@ Project developed during the **UI Clone** offered by [Rocketseat](https://www.yo
 
 This project is done in one part:
 
-1. Frontend (youtube-clone-typeform-homepage folder)
+1. Frontend (youtube-clone-mercadolivre folder)
 
 ### Pré-requisites
 
@@ -44,22 +42,21 @@ Before you begin, you will need to have the following tools installed on your ma
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
 #### 🧭 Running the web application
-
 ```bash
 
-# Clone this repository
-$ git clone https://github.com/marcelo-rafael/youtube-clone-motion-typeform-homepage/
+# Clone este repositório
+$ git clone https://github.com/marcelo-rafael/youtube-clone-mercado-livre/
 
-# Access the project folder in your terminal
-$ cd primeiro-projeto-com-react
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd youtube-clone-mercadolivre
 
-# Install the dependencies
+# Instale as dependências
 $ yarn install or npm install
 
-# Run the application in development mode
+# Execute a aplicação em modo de desenvolvimento
 $ yarn start or npm run start
 
-# The application will open on the port:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
@@ -71,10 +68,10 @@ The following tools were used in the construction of the project:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[framer/motion](https://github.com/framer/motion)**
+-   **[react-icons](https://react-icons.github.io/react-icons/)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> See the file  [package.json](https://github.com/marcelo-rafael/primeiro-projeto-com-react/blob/master/package.json)
+> See the file  [package.json](https://github.com/marcelo-rafael/youtube-clone-mercado-livre/blob/master/package.json)
 
 ---
 
