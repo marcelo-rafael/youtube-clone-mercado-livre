@@ -2,12 +2,69 @@
 UI Clone - Página de compras Mercado livre
 </h1>
 
-<p align="center">Homepage UI clone for study purposes.</p>
-<p align="center">Deployed <a href="https://ui-clone-mercadolivre.netlify.app/">here</a>.</p>
-
 <hr>
 
+<p align="center">
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
+</p>
 
+<h4 align="center"> 
+	🚧  Homepage UI clone Mercado livre 🚀 em andamento 🚀 🚧
+</h4>
+<p align="center">Deployed <a href="https://ui-clone-mercadolivre.netlify.app/">here</a>.</p>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
+
+
+## 💻 Sobre o projeto
+
+UI Clone - Página de compras Mercado livre para fins de estudo
+
+
+Projeto desenvolvido durante a **UI Clone** 
+oferecido por [Rocketseat](https://www.youtube.com/watch?v=APs_xQ2hUOE&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=9).
+
+---
+
+## 🚀 Como executar o projeto
+
+Este projeto é feito em uma parte:
+
+1. Frontend (youtube-clone-mercadolivre folder)
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🧭 Rodando a aplicação web
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/marcelo-rafael/youtube-clone-mercado-livre/
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd youtube-clone-mercadolivre
+
+# Instale as dependências
+$ yarn install or npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start or npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
 
 ---
 
@@ -21,7 +78,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)**
 -   **[react-icons](https://react-icons.github.io/react-icons/)**
 
-> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-github/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-mercado-livre/blob/master/package.json)
 
 ---
 
