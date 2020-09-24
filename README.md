@@ -75,7 +75,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
--   **[react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)**
 -   **[react-icons](https://react-icons.github.io/react-icons/)**
 
 > Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-mercado-livre/blob/master/package.json)
